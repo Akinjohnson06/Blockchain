@@ -33,7 +33,7 @@ The key goals of this project were:
 ## **How to Use This Repository**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/blockchain-analysis
+   git clone https://github.com/akinjohnson06/blockchain-analysis
    ```  
 2. Install required libraries:  
    ```bash
